@@ -2,7 +2,7 @@
 
 #### $a ='{"mazhar":100,"fuat":15,"ozkan":-10}';
 
-Yukarıda gösterilen yapıdaki diziyi, sayısal değerine göre büyükten küçüğe sıralayınız.
+Sort the array in the structure shown above from large to small according to its numerical value.
 
 #### Output: 100 15 -10 
 
